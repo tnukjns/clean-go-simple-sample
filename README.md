@@ -11,12 +11,12 @@ git clone https://github.com/yourusername/clean-go-simple-sample.git
 cd clean-go-simple-sample
 ```
 
-2. Run the second example, which uses Clean Architecture:
+2. Run the first example, which uses Clean Architecture:
 ```
 go run clean/print-userid.go 
 ```
 
-3. Run the first example, which doesn't use Clean Architecture:
+3. Run the second example, which doesn't use Clean Architecture:
 ```
 go run not-clean/print-userid.go 
 ```
