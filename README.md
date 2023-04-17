@@ -13,10 +13,10 @@ cd clean-go-simple-sample
 
 2. Run the first example, which uses Clean Architecture:
 ```
-go run clean/print-userid.go 
+go run clean/main.go 
 ```
 
 3. Run the second example, which doesn't use Clean Architecture:
 ```
-go run not-clean/print-userid.go 
+go run not-clean/main.go 
 ```
