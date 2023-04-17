@@ -1,4 +1,4 @@
-# Go-Clean-Sample
+# go-clean-sample
 This repository contains two simple Go programs that output user IDs, highlighting the contrast between the Clean Architecture approach and the non-Clean Architecture approach.
 
 ## Usage
