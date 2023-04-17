@@ -1,4 +1,4 @@
-# Clean-Go-Simple-Sample
+# Go-Clean-Sample
 This repository contains two simple Go programs that output user IDs, highlighting the contrast between the Clean Architecture approach and the non-Clean Architecture approach.
 
 ## Usage
@@ -7,7 +7,7 @@ To run the programs, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/clean-go-simple-sample.git
+git clone https://github.com/tnukjns/go-clean-sample.git
 cd clean-go-simple-sample
 ```
 
